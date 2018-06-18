@@ -1,0 +1,29 @@
+{
+  "name": "boostrap-mini",
+  "version": "1.0.0",
+  "description": "boostrap mini",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/azazel404.git"
+  },
+  "keywords": [
+    "boostrap",
+    "Mini"
+  ],
+  "author": "Azazel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/github.com/azazel404/issues"
+  },
+  "homepage": "https://github.com/github.com/azazel404#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.5.0",
+    "gulp-sass": "^4.0.1"
+  }
+}
